@@ -11,3 +11,6 @@
 ***
 #### 步骤
 1. socket实现HTTPServer
+2. 完成models,User,todo,weibo
+3. 编写视图函数
+4. 前端js通过ajax实现todo/weibos增删改显示

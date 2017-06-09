@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 .idea/
 data/
-zgd.log.txt
+log.zgd.txt
 
 # C extensions
 *.so
